@@ -1,19 +1,13 @@
-# 🎬 Intelligent Video Assistant
-
 ### AI-Powered Video & Meeting Intelligence | Transcribe • Summarize • Extract Insights • Chat
 
-\<p align="center">
-&#x20; An AI-powered assistant that transforms long videos, meetings, and audio recordings into meaningful, searchable insights.
-\</p>
+An AI-powered assistant that transforms long videos, meetings, and audio recordings into meaningful, searchable insights.
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python\&logoColor=white)" alt="Python">
-&#x20; \<img src="[https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit\&logoColor=white)" alt="Streamlit">
-&#x20; \<img src="[https://img.shields.io/badge/LangChain-Framework-1C3C3C?logo=langchain&logoColor=white](https://img.shields.io/badge/LangChain-Framework-1C3C3C?logo=langchain\&logoColor=white)" alt="LangChain">
-&#x20; \<img src="[https://img.shields.io/badge/LLM-Mistral-orange](https://img.shields.io/badge/LLM-Mistral-orange)" alt="Mistral">
-&#x20; \<img src="[https://img.shields.io/badge/RAG-ChromaDB-green](https://img.shields.io/badge/RAG-ChromaDB-green)" alt="RAG">
-&#x20; \<img src="[https://img.shields.io/badge/Status-Active-success](https://img.shields.io/badge/Status-Active-success)" alt="Project status">
-\</p>
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?logo=langchain&logoColor=white)
+![Mistral](https://img.shields.io/badge/LLM-Mistral-orange)
+![RAG](https://img.shields.io/badge/RAG-ChromaDB-green)
+![Project Status](https://img.shields.io/badge/Status-Active-success)
 
 ---
 
