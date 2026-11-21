@@ -1,0 +1,59 @@
+
+# ==============================
+# ENVIRONMENT & SECRETS
+# ==============================
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+secrets/
+credentials/
+*.pem
+*.key
+
+# ==============================
+# PYTHON VIRTUAL ENVIRONMENTS
+# ==============================
+.venv/
+venv/
+env/
+ENV/
+
+# ==============================
+# PYTHON CACHE
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# IDE & SYSTEM FILES
+# ==============================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ==============================
+# LOGS & TEST CACHE
+# ==============================
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==============================
+# LOCAL GENERATED FILES
+# ==============================
+*.tmp
+*.bak
+# Local databases and embeddings
+vector_db/
+
+# Downloaded media and private data
+downloades/
+downloads/
+
+# Local user data
+uploads/
+data/
